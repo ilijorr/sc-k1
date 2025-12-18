@@ -1,3 +1,5 @@
+# SV 73/2022
+# Ilija Jordanovski
 from typing import Dict, Tuple
 import os
 import cv2
